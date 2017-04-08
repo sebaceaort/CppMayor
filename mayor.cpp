@@ -2,8 +2,8 @@
 // Descripcin : Dados dos numeros indicar cual es el mayor
 // Alumnos    : Sebastian Cea,   Leg: 1580048
 //              Adrián Arakaki,  Leg: 1561650
-//              Facundo Dalmau,  Leg:
-//              Leonel Pallares, Leg: 1527794
+//              Facundo Dalmau,  Leg: 1561637
+//              Leonel Pallares, Leg:
 // Fecha      : 20170408
 
 
