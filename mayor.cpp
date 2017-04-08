@@ -1,6 +1,9 @@
 // Nombre     : Mayor.cpp
 // Descripcin: Dados dos numeros indicar cual es el mayor
-// Alumnos    : Sebastian Cea, Leg: 1580048
+// Alumnos    : Sebastian Cea,   Leg: 1580048
+//              Adrián Arakaki,  Leg:
+//              Facundo Dalmau,  Leg:
+//              Leonel Pallares, Leg:
 // Fecha      : 20170407
 
 
