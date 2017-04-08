@@ -14,6 +14,8 @@
 | leonelpallares | 152779-4 | Pallares | Leonel    |
 | ⁠⁠⁠adriarakaki    | ⁠⁠156165-0 | Arakaki  | Adrian    |
 | ⁠⁠⁠fdalmaup       | 156163-7 | Dalmau   | Facundo   |
+| ⁠⁠⁠iDarkWizard    | 160633-5 | Zalazar  | Matías    |
+
 
 ## Trabajo Practico N° 2
 ### Mayor de dos números
