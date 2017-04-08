@@ -24,6 +24,7 @@
     Dado dos números informar cuál es el mayor.
 
 
+Análisis: Al iniciar el algoritmo se le pide al usuario que ingrese dos valores numéricos, los cuales serán posteriormente procesados en una operación de mayor para mostrar el resultado de la misma por el canal de salida estándar, habiendo tres resultados posibles los cuales son: que ambos números sea iguales; que el primer numero sea el mayor, o que el segundo lo sea.
 
 ###### Representacion del algorimo:
 
