@@ -20,3 +20,9 @@
 
 ##### Enunciado:
     Dado dos números informar cuál es el mayor.
+
+
+
+###### Representacion del algorimo:
+
+![analisis](https://cloud.githubusercontent.com/assets/26697657/24832555/ab2c424e-1c88-11e7-8edb-6bd737c9be49.jpg)
