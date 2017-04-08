@@ -28,5 +28,7 @@ int main()
                                     std::cout<<numero2<<" es mayor a "<<numero1;
                                 }
                 }
+    std::cin.get();
+    std::cin.get();
 }
 
