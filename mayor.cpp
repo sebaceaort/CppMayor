@@ -3,7 +3,7 @@
 // Alumnos    : Sebastian Cea,   Leg: 1580048
 //              Adrián Arakaki,  Leg: 1561650
 //              Facundo Dalmau,  Leg:
-//              Leonel Pallares, Leg:
+//              Leonel Pallares, Leg: 1527794
 // Fecha      : 20170408
 
 
@@ -28,5 +28,7 @@ int main()
                                     std::cout<<numero2<<" es mayor a "<<numero1;
                                 }
                 }
+    std::cin.get();
+    std::cin.get();
 }
 
