@@ -10,7 +10,7 @@
 
 | Usuario GitHub |  Legajo  | Apellido | Nombre    |
 | -------------  |:--------:|:--------:|----------:|
-| sebaceaort     |          | Cea      | Sebastian |
+| sebaceaort     | 158004-8 | Cea      | Sebastian |
 | leonelpallares |          | Pallares | Leonel    |
-| ⁠⁠⁠adriarakaki    |          | Arakaki  | Adrian    |
+| ⁠⁠⁠adriarakaki    | ⁠⁠156165-0 | Arakaki  | Adrian    |
 | ⁠⁠⁠fdalmaup       | 156163-7 | Dalmau   | Facundo   |
