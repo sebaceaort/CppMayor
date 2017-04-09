@@ -29,3 +29,16 @@ Análisis: Al iniciar el algoritmo se le pide al usuario que ingrese dos valores
 ###### Representacion del análisis:
 
 ![analisis](https://cloud.githubusercontent.com/assets/26697657/24832555/ab2c424e-1c88-11e7-8edb-6bd737c9be49.jpg)
+
+
+a y b pertenecen a los números enteros.
+#####Alg1oritmo: 
+        Leer a
+	    Leer b
+	    Si a es igual a b:
+		    Los numeros so iguales.
+	      Cuando a no es igual a b:
+	        Si a es mayor a b:
+		      Se escribe a.
+	        Cuando a no es mayor a b:
+		      Se escribe b.
