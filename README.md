@@ -32,13 +32,14 @@ Análisis: Al iniciar el algoritmo se le pide al usuario que ingrese dos valores
 
 
 a y b pertenecen a los números enteros.
-#####Alg1oritmo: 
-        Leer a
-	    Leer b
-	    Si a es igual a b:
-		    Los numeros so iguales.
-	      Cuando a no es igual a b:
-	        Si a es mayor a b:
-		      Se escribe a.
-	        Cuando a no es mayor a b:
-		      Se escribe b.
+
+Algoritmo:
+- Leer a
+- Leer b
+- Si a es igual a b:
+- Los números so iguales.
+- Cuando a no es igual a b:
+- Si a es mayor a b:
+- Se escribe a.
+- Cuando a no es mayor a b:
+- Se escribe b.
